@@ -1,5 +1,5 @@
-//Funkcija koja preuređuje cifre svakog od brojeva u nizu na 
-//osnovu uzlaznog (asc) ili silaznog (desc) redoslijeda.
+//A function that rearranges the digits of each number in a sequence based on 
+//ascending (asc) or descending (desc) order.
 
 function reorderDigits(arr, order) {
      let newString = [];
